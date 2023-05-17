@@ -20,7 +20,7 @@
     <div id="footer">
       <button @touchend="closeVideofunc()">打开/关闭视频</button>
       <button @touchend="peopmove = true">功能2</button>
-      <button @touchend="peopmove1 = true">功能31</button>
+      <button @touchend="peopmove1 = true">功能3</button>
       <button>功能4</button>
     </div>
     
